@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Jeevan Vishnu</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgurzu.com%2Fblog%2Fgetting-started-with-mern-stack%2F&psig=AOvVaw1ei6P9wdY2AL0w-xF0lslG&ust=1733305118678000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiDyfGmi4oDFQAAAAAdAAAAABAE">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevanvishnu&label=Profile%20views&color=0e75b6&style=flat" alt="jeevanvishnu" /> </p>
 
@@ -19,7 +19,7 @@ I'm a MERN stack developer passionate about creating robust and scalable web app
 
 ## 🔗 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/jeevanvishnu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevanvishnu" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/jeevan-vishnu/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jeevanvishnu" height="30" width="40" /></a>
 </p>
 
 ## 🛠️ Languages and Tools:
