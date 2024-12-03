@@ -5,7 +5,7 @@
 <h1 align="center">Hi 👋, I'm Jeevan Vishnu</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgurzu.com%2Fblog%2Fgetting-started-with-mern-stack%2F&psig=AOvVaw1ei6P9wdY2AL0w-xF0lslG&ust=1733305118678000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiDyfGmi4oDFQAAAAAdAAAAABAE">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/muhammadnurulahsan/muhammadnurulahsan/main/ahsan.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeevanvishnu&label=Profile%20views&color=0e75b6&style=flat" alt="jeevanvishnu" /> </p>
 
