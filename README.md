@@ -1,4 +1,5 @@
-<img src="./assets/Gemini_Generated_Image_anfsedanfsedanfs.png alt="GitHub Banner" width="100%" height="200px"  />
+<img src="./assets/Gemini_Generated_Image_anfsedanfsedanfs.png" alt="GitHub Banner" />
+
 
 # Hello World!, I'm Jeevan, a Mern Stack  Developer 👋🏼:
 🔭 I'm currently working For Ecommerce Website<br>🌱 I'm currently learning Mern stack<br>
