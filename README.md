@@ -58,7 +58,7 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/jeevanvishnu">
+  <a href="https://www.linkedin.com/in/jeevan-vishnu/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="mailto:jeevanvishnu21@gmail.com">
