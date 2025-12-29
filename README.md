@@ -19,7 +19,7 @@
 - 🌱 Learning **System Design & Backend Architecture**  
 - 🔍 Interested in **scalable and maintainable systems**  
 - 🚀 Building real-world applications with modern JavaScript  
-- 📫 Email: **your-email@example.com**
+- 📫 Email: **jeevanvishnu21@gmail.com**
 
 ---
 
@@ -58,10 +58,10 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/jeevanvishnu">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:jeevanvishnu21@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
 </p>
