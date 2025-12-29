@@ -1,26 +1,80 @@
+<h1 align="center">Hi, I'm Jeevan Vishnu</h1>
+
+<p align="center">
+  <img 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Developer;Learning+System+Design;Focused+on+Clean+Code" 
+    alt="Typing Animation"
+  />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e3c72,100:2a5298&height=110&section=header" />
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 💻 MERN Stack Developer  
+- 🌱 Learning **System Design & Backend Architecture**  
+- 🔍 Interested in **scalable and maintainable systems**  
+- 🚀 Building real-world applications with modern JavaScript  
+- 📫 Email: **your-email@example.com**
+
+---
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,git,github&perline=6" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=jeevanvishnu&theme=tokyo-night&hide_border=true" 
+  />
+</p>
+
+
+---
+
+## 📊 Language Usage
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jeevanvishnu&theme=tokyonight" 
+  />
+</p>
 
 
 
-# Hello World!, I'm Jeevan, a Mern Stack  Developer 👋🏼:
-🔭 I'm currently working For Ecommerce Website<br>🌱 I'm currently learning Mern stack<br>
 
+---
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/__jeevan_97) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeevan-vishnu/) 
+## 🌐 Connect With Me
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=jeevanvishnu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=jeevanvishnu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jeevanvishnu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=jeevanvishnu&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+---
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2a5298,100:1e3c72&height=90&section=footer" />
+</p>
 
-[![](https://visitcount.itsvg.in/api?id=jeevanvishnu&icon=0&color=0)](https://visitcount.itsvg.in)
-
+<p align="center">
+  <strong>Consistency. Clean Code. Continuous Learning.</strong>
+</p>
 
 
 <picture>
