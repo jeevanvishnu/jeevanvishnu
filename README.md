@@ -18,7 +18,8 @@
 - 💻 MERN Stack Developer  
 - 🌱 Learning **System Design & Backend Architecture**  
 - 🔍 Interested in **scalable and maintainable systems**  
-- 🚀 Building real-world applications with modern JavaScript  
+- 🚀 Building real-world applications with modern JavaScript
+- 🌐 Portfolio: https://my-crafted-folio-10.vercel.app/  
 - 📫 Email: **jeevanvishnu21@gmail.com**
 
 ---
@@ -61,6 +62,8 @@
   <a href="https://www.linkedin.com/in/jeevan-vishnu/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
+  
+  
   <a href="mailto:jeevanvishnu21@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail" />
   </a>
