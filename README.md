@@ -2,7 +2,7 @@
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Developer;Learning+System+Design;Focused+on+Clean+Code" 
+    src="https://readme-typing-svg.demolab.com?font=Inter&size=22&pause=1000&center=true&vCenter=true&width=520&lines=MERN+Stack+Developer;Full+Stack+JavaScript+Developer;Focused+on+Clean+Code" 
     alt="Typing Animation"
   />
 </p>
