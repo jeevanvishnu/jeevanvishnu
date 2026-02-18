@@ -19,7 +19,7 @@
 - 🌱 Learning **System Design & Backend Architecture**  
 - 🔍 Interested in **scalable and maintainable systems**  
 - 🚀 Building real-world applications with modern JavaScript
-- 🌐 Portfolio: https://my-crafted-folio-10.vercel.app/  
+- 🌐 Portfolio: https://jeevan-portfolio-kappa.vercel.app/
 - 📫 Email: **jeevanvishnu21@gmail.com**
 
 ---
